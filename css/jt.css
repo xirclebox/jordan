@@ -1,0 +1,22 @@
+/* custom css for jordanthorne.com by homer gaines copyright 2018 tonisha landry */
+
+body {
+  background-color: lightskyblue;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 5em;
+  font-weight: 400;
+}
+
+.container {
+  align-content: center;
+  display: grid;
+  justify-content: center;
+}
+
+.copyright,
+.hero {
+  text-align: center;
+}

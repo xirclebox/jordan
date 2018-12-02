@@ -114,6 +114,10 @@ body {
   justify-content: center;
 }
 
+.twitter-post {
+  margin: auto;
+}
+
 @media (min-width: 950px) {
 
   p,
